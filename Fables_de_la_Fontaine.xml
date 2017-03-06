@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<livre>
+	
+	<titre_livre>Fables fameuses</titre_livre>
+	<auteur>Jean de La Fontaine</auteur>
+	
+	<chapitre>
+		<titre_chapitre>Le corbeau et le renard</titre_chapitre>
+		<paragraphe>Maître Corbeau, sur un arbre perché, </paragraphe>
+		<paragraphe>Tenait en son bec un fromage .</paragraphe>
+		<paragraphe>Maître Renard, par l'odeur alléché,</paragraphe>
+		<paragraphe>Lui tint à peu près ce langage :</paragraphe>
+	</chapitre>
+	
+	<chapitre>
+		<titre_chapitre>La cigale et la fourmi</titre_chapitre>
+		<paragraphe>La Cigale, ayant chanté Tout l'été,</paragraphe>
+		<paragraphe>Se trouva fort dépourvue</paragraphe>
+		<paragraphe>Quand la bise fut venue.</paragraphe>
+		<paragraphe>Pas un seul petit morceau</paragraphe>
+		<paragraphe>De mouche ou de vermisseau</paragraphe>		
+	</chapitre>
+	
+	<chapitre>
+		<titre_chapitre>Le loup et le chien</titre_chapitre>
+		<paragraphe>Un Loup n'avait que les os et la peau</paragraphe>
+		<paragraphe>Tant les Chiens faisaient bonne garde.</paragraphe>
+		<paragraphe>Ce Loup rencontre un Dogue aussi puissant que beau,</paragraphe>
+		<paragraphe>Gras, poli, qui s'était fourvoyé par mégarde.</paragraphe>
+		<paragraphe>L'attaquer, le mettre en quartiers,</paragraphe>
+	</chapitre>
+	
+</livre>
